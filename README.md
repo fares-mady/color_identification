@@ -19,7 +19,7 @@ This project provides a simple yet effective tool for identifying and visualizin
 - Side-by-side image preview
 - Pie chart of dominant colors (with RGB to HEX conversion)
 
-![example](https://via.placeholder.com/600x300?text=Pie+Chart+Color+Extraction) <!-- Replace with your screenshot or GIF -->
+![example](output.PNG) <!-- Replace with your screenshot or GIF -->
 
 ---
 
